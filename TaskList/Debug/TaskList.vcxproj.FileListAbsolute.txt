@@ -1,0 +1,2 @@
+C:\Users\nnatu\source\repos\TaskList\Debug\TaskList.exe
+C:\Users\nnatu\source\repos\TaskList\Debug\TaskList.pdb
